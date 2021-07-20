@@ -24,7 +24,6 @@ path_set_j = PATH_J
 
 
 def msg(text):
-
     m = messagebox.showinfo("Notice", text)
     return m
 
